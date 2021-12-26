@@ -1,0 +1,5 @@
+una variable es un elemento que permite guardar cosas dentro para ser usadas más tarde.	
+un string es un conjunto de caracteres (normalmente letras) que son definidas por quien las programa.
+una función es un objeto que realiza una tarea de acuerdo a lo que el usuario le solicite, en otras palabras las funciones son como máquinas que hacen cosas.
+una declaración es la forma en la que definimos si una variable cumple o no con lo requerido de acuerdo a lo que definamos en ella, son como límites lógicos, permiten saber si algo cumple o no con ciertos requisitos.
+un booleano es quien comprueba el estado de la variable, es decir si es verdadero o falso el cumplimiento o de lo que se pide.
